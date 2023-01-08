@@ -1,5 +1,5 @@
 # medium-clone
-Medium clone project
+Medium clone project (bootstrap)
 
 # Project Pictures
 ![image](https://user-images.githubusercontent.com/105647206/211192798-099c01e2-0bb1-4a77-ba97-d5e373e8bedd.png)
